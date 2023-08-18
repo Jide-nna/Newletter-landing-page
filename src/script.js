@@ -17,7 +17,7 @@ function formValidation() {
   } else if (email.value.match(validRegex)) {
     toggle();
      emailArea.textContent = email.value
-    console.log(emailArea)
+     error.textContent = ""
   } else {
     errorToggle()
     error.textContent = "Enter correct emaill address"
@@ -41,4 +41,5 @@ successBtn.addEventListener("click", (e) => {
   showCase.classList.remove("hidden");
   success.classList.add("hidden")
   emailArea.textContent = ""
+  error.textContent = ""
 });
