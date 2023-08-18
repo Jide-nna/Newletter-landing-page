@@ -13,4 +13,4 @@
 
 ## Live Demo
 
-[Live Demo](https://jide-nna-guessing-game.netlify.app/)
+[Live Demo](https://jide-nna-newsletter-page.netlify.app/)
