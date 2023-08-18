@@ -10,3 +10,7 @@
 <li>Tailwind CSS </li>
 <li>Vanilla JavaScript </li>
 </ul>
+
+## Live Demo
+
+[Live Demo](https://jide-nna-guessing-game.netlify.app/)
